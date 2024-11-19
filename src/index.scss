@@ -8,6 +8,9 @@ body {
 }
 
 .App {
+  border: 5px solid #2a9d8f; /* Зелена рамка */
+  padding: 20px; /* Відступи всередині рамки */
+  border-radius: 15px; /* Закруглені кути */
   display: flex;
   align-items: center;
   justify-content: center;

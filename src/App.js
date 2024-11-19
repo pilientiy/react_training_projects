@@ -1,3 +1,6 @@
+/* Counter App
+ */
+
 import './index.scss';
 import React from 'react';
 
